@@ -1,0 +1,6 @@
+/home/alex/Desktop/Projects/Hash_table/build/CMakeFiles/hashtable.dir
+/home/alex/Desktop/Projects/Hash_table/build/CMakeFiles/hash_tests.dir
+/home/alex/Desktop/Projects/Hash_table/build/CMakeFiles/run_tests.dir
+/home/alex/Desktop/Projects/Hash_table/build/CMakeFiles/test.dir
+/home/alex/Desktop/Projects/Hash_table/build/CMakeFiles/edit_cache.dir
+/home/alex/Desktop/Projects/Hash_table/build/CMakeFiles/rebuild_cache.dir

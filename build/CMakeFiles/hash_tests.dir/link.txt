@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Wextra -Werror CMakeFiles/hash_tests.dir/tests/main_test.c.o -o hash_tests  libhashtable.a 
